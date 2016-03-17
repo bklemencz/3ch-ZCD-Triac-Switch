@@ -1,4 +1,4 @@
-update=3/11/2016 11:15:25 AM
+update=3/17/2016 2:40:41 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -61,3 +61,13 @@ LibName29=valves
 LibName30=E:/Project/KiCad/KICad-Library/BK_Common
 LibName31=E:/Project/KiCad/KICad-Library/BK_LED_Drivers
 LibName32=E:/Project/KiCad/KICad-Library/BK_STM8
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
